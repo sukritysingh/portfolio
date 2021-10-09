@@ -1,2 +1,2 @@
 # portfolio.github.io
-This project says that one student can know which Bihar engineering college they can get from their achived rank in Bcece
+this is portfolio of sukrity singh
